@@ -6,6 +6,7 @@
 - JavaScript
 
 **2. Additional Modules Required**
+- Vanilla Js
 - GrapesJS 
   --GrapesJS is a multi-purpose, Web Builder Framework, which means it allows you to easily create a drag & drop enabled builder of any html structure
   
