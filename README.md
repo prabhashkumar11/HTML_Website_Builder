@@ -1,4 +1,4 @@
-# TRINIT_Tech_Squad_DEV01
+# HTML_WEBSITE_BUILDER
 
 **1.Technolgies Used**
 - HTML
